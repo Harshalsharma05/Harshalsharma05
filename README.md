@@ -10,9 +10,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-nu-plum-60.vercel.app/api?username=HarshalSharma05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&v=2)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshalSharma05&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats-nu-plum-60.vercel.app/api/top-langs/?username=HarshalSharma05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-nu-plum-60.vercel.app/api?username=HarshalSharma05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&v=2&card_width=600)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HarshalSharma05&theme=blue-green&hide_border=false&card_width=600)<br/>
+![](https://github-readme-stats-nu-plum-60.vercel.app/api/top-langs/?username=HarshalSharma05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=600)
 
 
 

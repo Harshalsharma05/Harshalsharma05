@@ -12,8 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HarshalSharma05&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalSharma05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Snake Light](https://github.com/Harshalsharma05/Harshalsharma05/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Harshalsharma05/Harshalsharma05/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/Harshalsharma05/Harshalsharma05/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Harshalsharma05/Harshalsharma05/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ### ✍️ Random Dev Quote
